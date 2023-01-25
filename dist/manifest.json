@@ -1,0 +1,7 @@
+{
+  "sourceFile.ts": {
+    "file": "entry.js",
+    "src": "sourceFile.ts",
+    "isEntry": true
+  }
+}
